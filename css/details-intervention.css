@@ -1,0 +1,150 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.actualiser {
+	float: right;
+	margin-right: 5%;
+}
+
+
+.status-bar {
+	float: right;
+	width: 100%;
+	right: -10%;
+	background-color: yellow;
+	margin-right: 3%;
+	height: 700px;
+}
+
+.termine{
+	transform: rotate(90deg);
+}
+
+
+.type-urgent {
+	margin-left: 2%;
+	padding: 1%;
+	padding-left: 2%;
+	padding-right: 2%;
+	border-radius: 5px;
+	background-color: #ff0000;
+	font-size: 20px;
+}
+
+.intervention {
+	background-color: white;
+	box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+	padding-left: 1%;
+	padding-right: 0.5%;
+	padding-top: 1%;
+	margin-left: 15%;
+	margin-right: 5%;
+	margin-top: 4%;
+	width: 80%;
+	border-radius: 15px;
+}
+.title-intervention>h2 {
+	text-align: center;
+}
+
+.contact {
+	font-size: 18px;
+}
+.title-contact{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+.defaillance  {
+	font-size: 18px;
+}
+.title-defaillance {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.title-status-en-cours {
+	background-color: yellow;
+	font-style: italic;
+}
+.title-status-ok {
+	color: #0cf113;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.title-status-non-fait {
+	background-color: #fa0b1a;
+}
+
+.intervenants {
+	font-size: 18px;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+
+.liste-intervenants {
+	padding-left: 7%;
+}
+
+.title-visa {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.title-lieu  {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.title-duree  {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+
+.title-date {
+	font-style: italic;
+	float: right;
+}
+
+
+.materiaux-use {
+	font-size: 17px;
+}
+
+.mat-use-content {
+	padding-left: 33%;
+}
+
+.mat-use-content>ul{
+	padding-left: 10%;
+	list-style-type: none;
+}
+
+.checked {
+	color: #0f0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
